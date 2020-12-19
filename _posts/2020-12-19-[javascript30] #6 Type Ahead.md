@@ -1,4 +1,9 @@
 # [javascript 30] #6_Type Ahead
+---
+layout: post
+title: [javascript 30] #6_Type Ahead
+tags: [javascript30, javascript, TIL]
+---
 
 ### 결과 화면
 
