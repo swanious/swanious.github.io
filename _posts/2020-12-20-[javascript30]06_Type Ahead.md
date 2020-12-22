@@ -6,7 +6,7 @@ tags: [javascript30, javascript]
 ---
 ### 결과 화면
 
-![6_1](https://drive.google.com/file/d/1iv6tghfClovRJvHeGWyLLIjqVeQLhnc-/view?usp=sharing)
+![결과화면](https://drive.google.com/uc?export=view&id=1iv6tghfClovRJvHeGWyLLIjqVeQLhnc-)
 
 
 ### 진행 과정 
@@ -17,16 +17,16 @@ tags: [javascript30, javascript]
    - `...data`를 하는 이유는 각 인덱스에 각 데이터를 받아오기 위함이다 .
      - `data`를 `push` 하면 cities[0]에 1000개의 데이터가 들어가는 상황이 발생
 
-![6_2](https://drive.google.com/file/d/1SKV52_V1NhCIvpkj7p8Jc94SHsg_91qC/view?usp=sharing)
+![6_2](https://drive.google.com/uc?export=view&id=1SKV52_V1NhCIvpkj7p8Jc94SHsg_91qC)
 
 
 
 
-![6_3](https://drive.google.com/file/d/1mqH5DQjX8ad8fCySwJO-m3bpnEoE-g-h/view?usp=sharing)
+![6_3](https://drive.google.com/uc?export=view&id=1mqH5DQjX8ad8fCySwJO-m3bpnEoE-g-h)
 
 2. findMatches 
 
-   ![6_4](https://drive.google.com/file/d/1DZIMNlAJi4QwOu7Ksw61D0DMn4ER5ZNz/view?usp=sharing)
+   ![6_4](https://drive.google.com/uc?export=view&id=1DZIMNlAJi4QwOu7Ksw61D0DMn4ER5ZNz)
 
    - user가 기입한 input에 해당하는 `city`와 `state`를 return 해 줄 함수
    
@@ -49,7 +49,7 @@ tags: [javascript30, javascript]
 
    - `findMaches`에서 추출한 데이터 정제
    
-   ![6_5](https://drive.google.com/file/d/1XCKX9GaBfwKRwerzR7uoomNsuG5UojKy/view?usp=sharing)
+   ![6_5](https://drive.google.com/uc?export=view&id=1XCKX9GaBfwKRwerzR7uoomNsuG5UojKy)
    
    - regex - 유저가 기입한 input을 정규 표현식으로 변환
    - suggestions.innerHTML에 html을 받아줄 것이므로, html형식으로 return 
@@ -61,7 +61,7 @@ tags: [javascript30, javascript]
    - `join('')`으로 데이터 연결
      - 없을 경우, 추출한 데이터 사이 `,`로 분리됨
 
-![6_6](https://drive.google.com/file/d/126uhFoOecA-N9SAPZDV7LGKg6yWWSV-c/view?usp=sharing)
+![6_6](https://drive.google.com/uc?export=view&id=126uhFoOecA-N9SAPZDV7LGKg6yWWSV-c)
 
 
 
