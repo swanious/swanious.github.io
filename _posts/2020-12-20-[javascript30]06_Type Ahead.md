@@ -2,7 +2,10 @@
 layout: post
 title: javascript30 6번째 TIL
 category: javascript
-tags: [javascript30, javascript]
+tags:
+  - javascript30
+  - javascript
+published: true
 ---
 ### 결과 화면
 
